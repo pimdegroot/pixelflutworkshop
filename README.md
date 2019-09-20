@@ -1,7 +1,7 @@
 # Pixelflut Client Workshop
 
 ## 1. Introduction
-This readme is the text part of the workshop building a pixelflut client in python. The assumption is that you have python installed (https://www.python.org/), but no real programming experience. In terms of network connection the client works over wifi, but a gigabit ethernet is recommended. If you are doing this workshop on an event and have questions, feel free to ask them at the hackzone area or on the pixelflut discord channel.
+This readme is the text part of the workshop building a pixelflut client in python. The assumption is that you have python installed (https://www.python.org/), but no real programming experience. In terms of network connection the client works over wifi, but a gigabit ethernet is recommended. If you are doing this workshop on an event and have questions, feel free to ask them at the hackzone area or on the hackzone discord channel.
 
 ## 2. Initial client
 
